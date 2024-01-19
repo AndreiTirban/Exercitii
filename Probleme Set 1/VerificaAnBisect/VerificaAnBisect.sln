@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerificaAnBisect", "VerificaAnBisect\VerificaAnBisect.csproj", "{66433A11-3165-4CAE-A6B5-5AAE8E0DB854}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66433A11-3165-4CAE-A6B5-5AAE8E0DB854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66433A11-3165-4CAE-A6B5-5AAE8E0DB854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66433A11-3165-4CAE-A6B5-5AAE8E0DB854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66433A11-3165-4CAE-A6B5-5AAE8E0DB854}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83F1B369-F7C5-4101-BABF-6FD4D80D8F55}
+	EndGlobalSection
+EndGlobal
